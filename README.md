@@ -1,3 +1,5 @@
+# Using CNNs for image classification
+
 # Klasifikátor využívající konvolučních neuronových sítí pro rozpoznání obrazu
 - Vzhledem k tomu, že jsem v týmu sám, využil jsem možnost zpracovat jen jednu modalitu - obraz
 - Hledaná osoba je tedy detekována pouze pomocí obrazu skrz natrénovanou konvoluční neuronovou síť
